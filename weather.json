@@ -1,0 +1,92 @@
+[
+  {
+    "city": "New York",
+    "temperature": 27,
+    "condition": "Sunny",
+    "icon": "https://cdn-icons-png.flaticon.com/512/1163/1163624.png"
+  },
+  {
+    "city": "London",
+    "temperature": 18,
+    "condition": "Cloudy",
+    "icon": "https://cdn-icons-png.flaticon.com/512/1163/1163628.png"
+  },
+  {
+    "city": "Tokyo",
+    "temperature": 30,
+    "condition": "Clear",
+    "icon": "https://cdn-icons-png.flaticon.com/512/869/869869.png"
+  },
+  {
+    "city": "Paris",
+    "temperature": 21,
+    "condition": "Rainy",
+    "icon": "https://cdn-icons-png.flaticon.com/512/1163/1163657.png"
+  },
+  {
+    "city": "Sydney",
+    "temperature": 25,
+    "condition": "Partly Cloudy",
+    "icon": ""
+  },
+  {
+    "city": "Berlin",
+    "temperature": 20,
+    "condition": "Overcast",
+    "icon": "https://cdn-icons-png.flaticon.com/512/1163/1163634.png"
+  },
+  {
+    "city": "Moscow",
+    "temperature": 15,
+    "condition": "Snowy",
+    "icon": "https://cdn-icons-png.flaticon.com/512/642/642102.png"
+  },
+  {
+    "city": "Dubai",
+    "temperature": 38,
+    "condition": "Hot",
+    "icon": "https://cdn-icons-png.flaticon.com/512/869/869869.png"
+  },
+  {
+    "city": "Toronto",
+    "temperature": 22,
+    "condition": "Windy",
+    "icon": "https://cdn-icons-png.flaticon.com/512/483/483361.png"
+  },
+  {
+    "city": "Rome",
+    "temperature": 29,
+    "condition": "Sunny",
+    "icon": "https://cdn-icons-png.flaticon.com/512/1163/1163624.png"
+  },
+  {
+    "city": "Beijing",
+    "temperature": 26,
+    "condition": "Smoggy",
+    "icon": "https://cdn-icons-png.flaticon.com/512/1684/1684375.png"
+  },
+  {
+    "city": "Cape Town",
+    "temperature": 19,
+    "condition": "Partly Cloudy",
+    "icon": "https://cdn-icons-png.flaticon.com/512/1163/1163634.png"
+  },
+  {
+    "city": "Los Angeles",
+    "temperature": 28,
+    "condition": "Sunny",
+    "icon": "https://cdn-icons-png.flaticon.com/512/869/869869.png"
+  },
+  {
+    "city": "Singapore",
+    "temperature": 31,
+    "condition": "Humid",
+    "icon": "https://cdn-icons-png.flaticon.com/512/414/414825.png"
+  },
+  {
+    "city": "Rio de Janeiro",
+    "temperature": 33,
+    "condition": "Sunny",
+    "icon": "https://cdn-icons-png.flaticon.com/512/1163/1163624.png"
+  }
+]
